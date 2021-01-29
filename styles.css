@@ -196,3 +196,7 @@ body{
 	height: 90%;
 	background: #0BAB64;
 }
+
+.skill-items{
+	float: left;
+}
